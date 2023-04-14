@@ -1,5 +1,3 @@
-# country-road-take-me-home
-
 
 #ifndef SKY_MODLOADER_ICONLOADER_H 
  #define SKY_MODLOADER_ICONLOADER_H 
